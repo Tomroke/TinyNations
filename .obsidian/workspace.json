@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "992c1eed4eb96673",
+    "type": "split",
+    "children": [
+      {
+        "id": "e95b5905b15a35d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8aa682d6e8feb8ac",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Attack Plan.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "993c3b2214f38893",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Rules/Turn Order.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "88c2b65bb18ec03c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Rules/Abilities/🗲 Stamina.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8316ec53311e6967",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STAMINA WIP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d15feac5a3ea2a97",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecd4c673ff2f600d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e30a5877b732e104",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b06b40e4f6630c40",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b1c2803fecf23463",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d992aeb29d2ae10b",
+    "type": "split",
+    "children": [
+      {
+        "id": "00bf42c5b980bfe7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ead6d8ce9709ab6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "STAMINA WIP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e6fd95407e93df1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "STAMINA WIP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e222646b5dd7cfa8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d1801ddd1c486201",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "STAMINA WIP.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8316ec53311e6967",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "STAMINA WIP.md",
+    "Core Rules/Abilities/🗲 Stamina.md",
+    "Core Rules/Turn Order.md",
+    "Core Rules/Abilities/❤️ Health.md",
+    "Attack Plan.md",
+    "Core Rules/Combat/Basic Attacks.md",
+    "Core Rules/Abilities/👢 Movement.md",
+    "Cards/Action Cards/Action Cards.md",
+    "Core Rules/Keywords.md",
+    "Core Rules/Combat/Line of Sight.md",
+    "Core Rules/Abilities/⚔️ Power.md",
+    "Core Rules/Abilities/🏹 Range.md",
+    "Core Rules/Abilities/🛡️ Defence.md",
+    "Core Rules/Stacks.md",
+    "Ranged Attacks.md",
+    "Cards/Unit Cards/Basic Units.md",
+    "Cards/Unit Cards/Elite Units.md",
+    "Core Rules/Deck Building.md",
+    "Cards/Action Cards/Reaction Cards.md",
+    "Movement.md",
+    "Units Roster.md",
+    "Cards/Card Types WIP.md",
+    "Cards/Unit Cards/General Units.md",
+    "Cards/Unit Cards",
+    "Cards/Templates/Action Card Template.md",
+    "Core Rules/Map.md",
+    "Untitled.canvas",
+    "Cards/Action Cards",
+    "Cards/Templates",
+    "Cards",
+    "Core Rules/Combat",
+    "Core Rules",
+    "Core Rules/Abilities",
+    "Misc"
+  ]
+}
